@@ -55,7 +55,7 @@ fn route(dest: &str) {
             if old_packet.content != packet.content
                 || packet.header.identification != old_packet.header.identification
             {
-                // skip not ours packets
+                // skip not our packets
                 continue;
             }
         }
