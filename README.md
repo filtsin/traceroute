@@ -1,6 +1,6 @@
 # Traceroute
 
-Just study project...
+Just study project... (raw sockets and pcap using)
 
 ### Usage
 
